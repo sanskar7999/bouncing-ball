@@ -1,4 +1,4 @@
-﻿#include<stdio.h>
+﻿#include<stdio.h> //adding important libraries of c
 
 #include<graphics.h>
 
@@ -9,7 +9,7 @@
 int main()
 
 {
-
+//initialization
 int gd,gm,x,y,r,i,j=0,maxx,maxy,high;
 
 detectgraph(&gd,&gm);
