@@ -1,2 +1,2 @@
 # bouncing-ball
-Enjoy my created game 
+This a game created with c language and added some graphics.
