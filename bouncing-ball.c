@@ -1,13 +1,10 @@
-﻿#include<stdio.h> //adding important libraries of c
-
+//adding important libraries of c
+#include<stdio.h>
 #include<graphics.h>
-
 #include<conio.h>
-
 #include<dos.h>
 
 int main()
-
 {
 //initialization
 int gd,gm,x,y,r,i,j=0,maxx,maxy,high;
